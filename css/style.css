@@ -14,3 +14,9 @@
 .service-details-container{
     background-color: black;
 }
+.contact ul li{
+    font-size: 20px;
+}
+.address-details-container p{
+    font-size: 20px;
+}
