@@ -8,3 +8,9 @@
 .product{
     background-color: green;
 }
+.service{
+    background-color: gray;
+}
+.service-details-container{
+    background-color: black;
+}
